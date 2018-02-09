@@ -8,15 +8,12 @@ documentation for mnevo application
 
 ## Functionality
 
-   Pages 
-   
- yesy
- 
-      Login  
-         ##### input  
-* login or mail
-  * password
-  * remember me
+### Pages 
+- Login  
+  - input  
+    - login or mail
+    - password
+    - remember me
 
 ##### functionality
 - on flu validation
