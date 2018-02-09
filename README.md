@@ -8,59 +8,37 @@ documentation for mnevo application
 
 ## Functionality
 
-### Pages 
-- Login  
+## Pages 
+- **Login**  
   - input  
     - [x] login or mail
     - [x] password
-    - [x] remember me
+    - [ ] remember me
+  - functionality
+    - [ ] sessions
+    - [ ] on fly validation
+- **Register**  
+  - input  
+    - [x] login
+    - [x] mail
+    - [x] password
+    - [ ] remember me
+  - functionality
+    - [ ] sessions
+    - [ ] on fly validation
+- **Main**  
+  - input  
+    - [ ] mnevo
+      - [ ] word (word describing mnemonic image)
+      - [ ] image (picture or 3d model of mnemonic image)
+      - [ ] tags-word (tags describing the word)
+      - [ ] tags-image (tags describing the image)
+      - [ ] tags-category (tags describing the mnewo category(subjects on wich it can be applied))
+  - manipulation
+    - scope
+      - [ ] public
+      - [ ] private
+  - functionality
+    - [ ] mnevo-add
+    - [ ] mnevo-view
 
-##### functionality
-- on flu validation
-
-<register>
-<page-input>
-login
-mail
-password
-remeber me 
-</page-input>
-
-
-validation of fly
-<
-</register>
-
-<main>
-<input>
-<mnevo>
-<image> picture or 3d model </image>
-<word> name for mnemonic image </word>
-<tags-word>          </tags-word>
-<tags-image>          </tags-image>
-</mnevo>
-</input>
-
-<manipulation>
-<scope>
-
-<public>          </public>
-
-<private>          </private>
-
-</scope>
-</manipulation>
-
-
-
-<mnevo-view>
-sort
-edit
-</mnevo-view>
-
-<mnevo-add>        </mnevo-add>
-
-<
-</main>
-</pages>
-<
