@@ -9,11 +9,11 @@ documentation for mnevo application
 ## Functionality
 
 ### Pages 
-- [x] Login  
+- Login  
   - input  
-    - login or mail
-    - password
-    - remember me
+    - [x] login or mail
+    - [x] password
+    - [x] remember me
 
 ##### functionality
 - on flu validation
