@@ -13,8 +13,8 @@
 
 ## ROUTES
 ```json
-{word: "",
-image: null,
-tagWords: [],
-tagImage: []}
+{"word": "",
+"image": null,
+"tagWords": [],
+"tagImage": []}
 ```
