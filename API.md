@@ -4,9 +4,11 @@
 - **MNEVO**
   - upload one mnevo
   - get by[sort, id] stack of mnevo
-  
-## ROUTES
+- **validate**
+  - login or mail
+- **session tokens**
 
+## ROUTES
 ```json
 {word: "",
 image: null,
