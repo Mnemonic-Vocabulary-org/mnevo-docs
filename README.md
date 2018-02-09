@@ -5,19 +5,16 @@ documentation for mnevo application
   
 </main>
 
-### functionality
-  <pages>
-    <login>
-      <page-input>
-        login or mail
-        password
-        remember me
-      </page-input>
+## Functionality
+  ### Pages
+    #### Login
+		##### input
+	        - login or mail
+	        - password
+	        - remember me
 
-      
-        validation of fly
-      <
-    </login>
+      	##### functionality
+        	- on flu validation
 
     <register>
       <page-input>
