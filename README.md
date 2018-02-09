@@ -6,59 +6,59 @@ documentation for mnevo application
 </main>
 
 ## Functionality
-  ### Pages
-    #### Login
-		##### input
-	        - login or mail
-	        - password
-	        - remember me
+### Pages
+#### Login
+##### input
+- login or mail
+- password
+- remember me
 
-      	##### functionality
-        	- on flu validation
+##### functionality
+- on flu validation
 
-    <register>
-      <page-input>
-        login
-        mail
-        password
-        remeber me 
-      </page-input>
-      
-      
-        validation of fly
-      <
-    </register>
+<register>
+<page-input>
+login
+mail
+password
+remeber me 
+</page-input>
 
-    <main>
-      <input>
-        <mnevo>
-          <image> picture or 3d model </image>
-          <word> name for mnemonic image </word>
-          <tags-word>          </tags-word>
-          <tags-image>          </tags-image>
-        </mnevo>
-      </input>
 
-      <manipulation>
-        <scope>
+validation of fly
+<
+</register>
 
-          <public>          </public>
+<main>
+<input>
+<mnevo>
+<image> picture or 3d model </image>
+<word> name for mnemonic image </word>
+<tags-word>          </tags-word>
+<tags-image>          </tags-image>
+</mnevo>
+</input>
 
-          <private>          </private>
+<manipulation>
+<scope>
 
-        </scope>
-      </manipulation>
+<public>          </public>
 
-      
+<private>          </private>
 
-        <mnevo-view>
-          sort
-          edit
-        </mnevo-view>
+</scope>
+</manipulation>
 
-        <mnevo-add>        </mnevo-add>
-        
-      <
-    </main>
-  </pages>
+
+
+<mnevo-view>
+sort
+edit
+</mnevo-view>
+
+<mnevo-add>        </mnevo-add>
+
+<
+</main>
+</pages>
 <
