@@ -12,9 +12,9 @@ documentation for mnevo application
  
       Login  
          ##### input  
-- login or mail
- - password
-  - remember me
+* login or mail
+ * password
+  * remember me
 
 ##### functionality
 - on flu validation
