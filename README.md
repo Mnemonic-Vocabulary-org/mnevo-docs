@@ -9,6 +9,7 @@ documentation for mnevo application
 ## Pages 
 - **LOGIN**  
   - **input**  
+  -
     - login or mail [[<del>ANDROID</del>][<del>WEBbrowser</del>]]
     - password [[<del>ANDROID</del>][<del>WEBbrowser</del>]]
     - remember me [[<del>ANDROID</del>][<del>WEBbrowser</del>]]
