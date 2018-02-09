@@ -15,7 +15,7 @@ documentation for mnevo application
       Login  
          ##### input  
 * login or mail
- * password
+  * password
   * remember me
 
 ##### functionality
