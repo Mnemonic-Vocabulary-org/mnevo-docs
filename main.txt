@@ -1,0 +1,64 @@
+<main>
+  
+</main>
+
+<functionality>
+  <pages>
+    <login>
+      <page-input>
+        login or mail
+        password
+        remember me
+      </page-input>
+
+      <functionality>
+        validation of fly
+      </functionality>
+    </login>
+
+    <register>
+      <page-input>
+        login
+        mail
+        password
+        remeber me 
+      </page-input>
+      
+      <functionality>
+        validation of fly
+      </functionality>
+    </register>
+
+    <main>
+      <input>
+        <mnevo>
+          <image> picture or 3d model </image>
+          <word> name for mnemonic image </word>
+          <tags-word>          </tags-word>
+          <tags-image>          </tags-image>
+        </mnevo>
+      </input>
+
+      <manipulation>
+        <scope>
+
+          <public>          </public>
+
+          <private>          </private>
+
+        </scope>
+      </manipulation>
+
+      <functionality>
+
+        <mnevo-view>
+          sort
+          edit
+        </mnevo-view>
+
+        <mnevo-add>        </mnevo-add>
+        
+      </functionality>
+    </main>
+  </pages>
+</functionality>
