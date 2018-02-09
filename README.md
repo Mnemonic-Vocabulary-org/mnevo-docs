@@ -28,9 +28,9 @@ documentation for mnevo application
     - [ ] on fly validation
 - **Main**  
   - input  
-    - [ ] mnevo
-      - [ ] word (word describing mnemonic image)
-      - [ ] image (picture or 3d model of mnemonic image)
+    - mnevo
+      - w[ ] word (word describing mnemonic image)
+      - [ ] a [ ] image (picture or 3d model of mnemonic image)
       - [ ] tags-word (tags describing the word)
       - [ ] tags-image (tags describing the image)
       - [ ] tags-category (tags describing the mnewo category(subjects on wich it can be applied))
