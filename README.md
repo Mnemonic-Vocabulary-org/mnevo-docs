@@ -9,7 +9,7 @@ documentation for mnevo application
 ## Functionality
 
 ### Pages 
-- Login  
+- [x] Login  
   - input  
     - login or mail
     - password
