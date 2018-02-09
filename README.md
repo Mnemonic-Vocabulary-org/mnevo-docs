@@ -6,9 +6,9 @@ documentation for mnevo application
 </main>
 
 ## Functionality
-...### Pages
-......#### Login
-.........##### input
+   ### Pages  
+      #### Login  
+         ##### input  
 - login or mail
 - password
 - remember me
