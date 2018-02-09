@@ -2,8 +2,8 @@
 documentation for mnevo application 
 
 ## Functionality
+###application architecture diagram
 ![GitHub Logo](/MNEVO.png)
-Format: ![application architecture diagram](url)
 
 ## Pages 
 - **LOGIN**  
