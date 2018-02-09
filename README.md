@@ -11,34 +11,74 @@ documentation for mnevo application
 ## Pages 
 - **Login**  
   - input  
-    - [x] login or mail
-    - [x] password
-    - [ ] remember me
+    - login or mail
+      - [ ] android
+      - [ ] web browser
+    - password
+      - [ ] android
+      - [ ] web browser
+    - remember me
+      - [ ] android
+      - [ ] web browser
   - functionality
-    - [ ] sessions
-    - [ ] on fly validation
+    - sessions
+      - [ ] android
+      - [ ] web browser
+    - on fly validation
+      - [ ] android
+      - [ ] web browser
 - **Register**  
   - input  
-    - [x] login
-    - [x] mail
-    - [x] password
-    - [ ] remember me
+    - login
+      - [ ] android
+      - [ ] web browser
+    - mail
+      - [ ] android
+      - [ ] web browser
+    - password
+      - [ ] android
+      - [ ] web browser
+    - remember me
+      - [ ] android
+      - [ ] web browser
   - functionality
-    - [ ] sessions
-    - [ ] on fly validation
+    - sessions
+      - [ ] android
+      - [ ] web browser
+    - on fly validation
+      - [ ] android
+      - [ ] web browser
 - **Main**  
   - input  
     - mnevo
-      - w[ ] word (word describing mnemonic image)
-      - [ ] a [ ] image (picture or 3d model of mnemonic image)
-      - [ ] tags-word (tags describing the word)
-      - [ ] tags-image (tags describing the image)
-      - [ ] tags-category (tags describing the mnewo category(subjects on wich it can be applied))
+      - word (word describing mnemonic image)
+        - [ ] android
+        - [ ] web browser
+      - image (picture or 3d model of mnemonic image)
+        - [ ] android
+        - [ ] web browser
+      - tags-word (tags describing the word)
+        - [ ] android
+        - [ ] web browser
+      - tags-image (tags describing the image)
+        - [ ] android
+        - [ ] web browser
+      - tags-category (tags describing the mnewo category(subjects on wich it can be applied))
+        - [ ] android
+        - [ ] web browser
   - manipulation
     - scope
-      - [ ] public
-      - [ ] private
+      - public
+        - [ ] android
+        - [ ] web browser
+      - private
+        - [ ] android
+        - [ ] web browser
   - functionality
-    - [ ] mnevo-add
-    - [ ] mnevo-view
+    - mnevo-add
+      - [ ] android
+      - [ ] web browser
+    - mnevo-view
+      - [ ] android
+      - [ ] web browser
 
