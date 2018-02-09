@@ -3,7 +3,7 @@ documentation for mnevo application
 
 ## Functionality
 ![GitHub Logo](/MNEVO.png)
-Format: ![Alt Text](url)
+Format: ![application architecture diagram](url)
 
 ## Pages 
 - **LOGIN**  
