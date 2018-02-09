@@ -1,84 +1,40 @@
 # mnevo-docs
 documentation for mnevo application 
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
-
 ## Functionality
 
 ## Pages 
-- **Login**  
-  - input  
-    - login or mail
-      - [ ] android
-      - [ ] web browser
-    - password
-      - [ ] android
-      - [ ] web browser
-    - remember me
-      - [ ] android
-      - [ ] web browser
-  - functionality
-    - sessions
-      - [ ] android
-      - [ ] web browser
-    - on fly validation
-      - [ ] android
-      - [ ] web browser
-- **Register**  
-  - input  
-    - login
-      - [ ] android
-      - [ ] web browser
-    - mail
-      - [ ] android
-      - [ ] web browser
-    - password
-      - [ ] android
-      - [ ] web browser
-    - remember me
-      - [ ] android
-      - [ ] web browser
-  - functionality
-    - sessions
-      - [ ] android
-      - [ ] web browser
-    - on fly validation
-      - [ ] android
-      - [ ] web browser
-- **Main**  
-  - input  
+- **LOGIN**  
+  - **input**  
+    - login or mail <del>android</del> <del>web browser</del>
+    - password <del>android</del> <del>web browser</del>
+    - remember me <del>android</del> <del>web browser</del>
+  - **functionality**
+    - sessions <del>android</del> <del>web browser</del>
+    - on fly validation <del>android</del> <del>web browser</del>
+- **REGISTER**  
+  - **input**
+    - login <del>android</del> <del>web browser</del>
+    - mail <del>android</del> <del>web browser</del>
+    - password <del>android</del> <del>web browser</del>
+    - remember me <del>android</del> <del>web browser</del>
+  - **functionality**
+    - sessions <del>android</del> <del>web browser</del>
+    - on fly validation <del>android</del> <del>web browser</del>
+- **MAIN**  
+  - **input** 
     - mnevo
-      - word (word describing mnemonic image)
-        - [ ] android
-        - [ ] web browser
-      - image (picture or 3d model of mnemonic image)
-        - [ ] android
-        - [ ] web browser
-      - tags-word (tags describing the word)
-        - [ ] android
-        - [ ] web browser
-      - tags-image (tags describing the image)
-        - [ ] android
-        - [ ] web browser
-      - tags-category (tags describing the mnewo category(subjects on wich it can be applied))
-        - [ ] android
-        - [ ] web browser
-  - manipulation
+      - word (word describing mnemonic image) <del>android</del> <del>web browser</del>
+      - image (picture or 3d model of mnemonic image) <del>android</del> <del>web browser</del>
+      - tags-word (tags describing the word) <del>android</del> <del>web browser</del>
+      - tags-image (tags describing the image) <del>android</del> <del>web browser</del>
+      - tags-category (tags describing the mnewo category(subjects on wich it can be applied)) <del>android</del> <del>web browser</del>
+  - **manipulation**
     - scope
-      - public
-        - [ ] android
-        - [ ] web browser
-      - private
-        - [ ] android
-        - [ ] web browser
-  - functionality
-    - mnevo-add
-      - [ ] android
-      - [ ] web browser
-    - mnevo-view
-      - [ ] android
-      - [ ] web browser
+      - public <del>android</del> <del>web browser</del>
+      - private <del>android</del> <del>web browser</del>
+  - **functionality**
+    - mnevo-add <del>android</del> <del>web browser</del>
+    - mnevo-view <del>android</del> <del>web browser</del>
+    - mnevo-edit <del>android</del> <del>web browser</del>
 
