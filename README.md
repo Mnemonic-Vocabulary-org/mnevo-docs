@@ -26,7 +26,7 @@ documentation for mnevo application
     - on fly validation [[<del>ANDROID</del>][<del>WEBbrowser</del>]]
 - **MAIN**  
   - **input** 
-    - mnevo
+    - mnewo
       - word (word describing mnemonic image) [[<del>ANDROID</del>][<del>WEBbrowser</del>]]
       - image (picture or 3d model of mnemonic image) [[<del>ANDROID</del>][<del>WEBbrowser</del>]]
       - tags-word (tags describing the word) [[<del>ANDROID</del>][<del>WEBbrowser</del>]]
@@ -37,7 +37,7 @@ documentation for mnevo application
       - public [[<del>ANDROID</del>][<del>WEBbrowser</del>]]
       - private [[<del>ANDROID</del>][<del>WEBbrowser</del>]]
   - **functionality**
-    - mnevo-add [[<del>ANDROID</del>][<del>WEBbrowser</del>]]
-    - mnevo-view [[<del>ANDROID</del>][<del>WEBbrowser</del>]]
-    - mnevo-edit [[<del>ANDROID</del>][<del>WEBbrowser</del>]]
+    - mnewo-add [[<del>ANDROID</del>][<del>WEBbrowser</del>]]
+    - mnewo-view [[<del>ANDROID</del>][<del>WEBbrowser</del>]]
+    - mnewo-edit [[<del>ANDROID</del>][<del>WEBbrowser</del>]]
 
